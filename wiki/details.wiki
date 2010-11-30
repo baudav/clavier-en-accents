@@ -1,0 +1,44 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+En chine les claviers sont des QWERTY (clavier américain) et donc pas de caractère accentué, impossible d'écrire les é è à ê ç avec le clavier par défaut.
+J'ai donc créé un clavier avec les caractères accentués (pour Windows uniquement, avec l'utilitaire de Microsoft), placé au mieux à mon avis... pour ne pas etre forcé de les écrires sur les touches.
+
+Le basculement d'un clavier à un autre se fait par défaut avec ATL+SHIFT (changement de CH à EN dans la barre des langues). Après installation vous trouverez un clavier EN Qwerty-caractères Europe. Si vous aviez déjà le clavier américain standard, vous pourrez le supprimer afin de basculer simplement vers le clavier Qwerty-caractères Europe.
+
+
+= Details =
+
+Pour installer ce clavier installez simplement le fichier [http://clavier-en-accents.googlecode.com/files/kbdenfr1.4.exe]
+Pour suppression, le clavier ne doit plus etre sélectionné, et allez dans ajout/suppression de programme (Désinstaller un programme pour W7) et désinstaller "QWERTY - Caractères européens"
+
+Vous pourez saisir directement les caractères accentués éàêè (minuscule et majuscule), le ç le ¥, €... directement au clavier sans programme supplémentaire, sans faire de copier coller, sans connaitre les codes par coeur (ALT+0201..)
+
+Voici le clavier, la touche ALT droite devient ALT Gr (identique à CTRL+ALT):
+
+[http://clavier-en-accents.googlecode.com/svn/wiki/keyb-en.png]
+
+
+L'accent grave permet de faire les voyelles accentuées: (1ère touche en haut à gauche)
+*`*puis *a*=à,   *`* puis *u*=ù,   *`* puis *espace* reproduit l'accent seul (qui est sur le clavier QWERTY à l'origine mais ne permet pas d'écrire les caractères composés)
+
+*Shift*+*^* puis *E*=ê ,  *Shift*+*^* puis *A*=â ,  *Shift*+*^* puis *Shift*+*A*=Â
+*AltGr*+*e*=€ , *AltGr*+*y*=¥
+*AltGr*+*a*=à , *AltGr*+*3*=é  êéèë sont sur 2,3,4,5 (au dessus du E)
+*AltGr*+*c*=ç, *AltGr*+*s*=ß (S allemand)
+*AltGr*+ *:* puis voyelle pour ëäü...
+*AltGr*+ *,* puis voyelle pour éíç..
+
+*AltGr*+ *,* puis *C*=ç
+*AltGr*+ *,* puis *Shift*+*E* écrira É
+*AltGr*+*Shift*+*/*=Ø (diamètre)
+
+
+Les caractères les plus utilisés en français sont accessible directement par *AltGr*+ *2* pour ê , +*3* pour é, +*4* pour è (touches *3* et *4* se trouvant juste au dessus de la touche *E*),  *AltGr*+ *a* pour à,  *AltGr*+ *o* pour œ
+le *AltGr*+*E* pour le symbole EURO €, +*Y* (Yen) pour le ¥,
+et *R* (RMB) pour le symbole monaitaire Chinois 元
+
+(!!attention le caractère du symbole monaitaire chinois RMB n'entre pas dans la norme ISO française et ne s'affichera pas correctement dans les applications non unicode; le ç peut aussi poser problème dans les applications non unicode ou non française)
+
+*AltGr*+*Espace* fait un espace insécable.
