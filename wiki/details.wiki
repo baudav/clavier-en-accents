@@ -21,17 +21,24 @@ Voici le clavier, la touche ALT droite devient ALT Gr (identique à CTRL+ALT):
 
 
 L'accent grave permet de faire les voyelles accentuées: (1ère touche en haut à gauche)
-*`*puis *a*=à,   *`* puis *u*=ù,   *`* puis *espace* reproduit l'accent seul (qui est sur le clavier QWERTY à l'origine mais ne permet pas d'écrire les caractères composés)
+``` puis *a*=à,   ``` puis *u*=ù,   ``` puis *espace* reproduit l'accent seul (qui est sur le clavier QWERTY à l'origine mais ne permet pas d'écrire les caractères composés)
 
-*Shift*+*^* puis *E*=ê ,  *Shift*+*^* puis *A*=â ,  *Shift*+*^* puis *Shift*+*A*=Â
+*Shift*+`^` puis *E*=ê ,  *Shift*+`^` puis *A*=â ,  *Shift*+`^` puis *Shift*+*A*=Â
+
 *AltGr*+*e*=€ , *AltGr*+*y*=¥
+
 *AltGr*+*a*=à , *AltGr*+*3*=é  êéèë sont sur 2,3,4,5 (au dessus du E)
+
 *AltGr*+*c*=ç, *AltGr*+*s*=ß (S allemand)
+
 *AltGr*+ *:* puis voyelle pour ëäü...
-*AltGr*+ *,* puis voyelle pour éíç..
+
+*AltGr*+ *,* puis voyelle pour éíç...
 
 *AltGr*+ *,* puis *C*=ç
+
 *AltGr*+ *,* puis *Shift*+*E* écrira É
+
 *AltGr*+*Shift*+*/*=Ø (diamètre)
 
 
