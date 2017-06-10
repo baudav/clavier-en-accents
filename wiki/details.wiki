@@ -17,7 +17,7 @@ Vous pourez saisir directement les caractères accentués éàêè (minuscule et
 
 Voici le clavier, la touche ALT droite devient ALT Gr (identique à CTRL+ALT):
 
-[http://clavier-en-accents.googlecode.com/svn/wiki/keyb-en.png]
+[https://raw.githubusercontent.com/baudav/clavier-en-accents/master/wiki/keyb-en.png]
 
 
 L'accent grave permet de faire les voyelles accentuées: (1ère touche en haut à gauche)
